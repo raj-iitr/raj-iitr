@@ -6,6 +6,16 @@
 
 <h3 align="center"><i>I am skilled at follwing tech stacks</i></h3>
 
+<p align="center">
+<img src="html.png" alt="html" width="70" height="70">
+<img src="css.png" alt="css" width="70" height="70">
+<img src="javascript.png" alt="javascript" width="70" height="70">
+<img src="cpp.png" alt="cpp" width="70" height="70">
+<img src="react.png" alt="react" width="70" height="70">
+<img src="redux.png" alt="redux" width="70" height="70">
+<img src="vue.png" alt="vue" width="70" height="70">
+<img src="sass.png" alt="sass" width="70" height="70">
+</p>
 
 
 <p align="center"><samp>
