@@ -1,4 +1,4 @@
-<h1 align="center"><samp>Hi there!👋🏾 <br>Welcome to my Github! <br> I'm <b>Rajarshi Vinayak</b>,<br> a passionate web developer,currently pursuing my undergraduate studies at IIT Roorkee </samp></h1>
+<h2 align="center"><samp>Hi there!👋🏾 <br>Welcome to my Github! <br> I'm <b>Rajarshi Vinayak</b>,<br> a passionate web developer,currently pursuing my undergraduate studies at IIT Roorkee </samp></h2>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
