@@ -1,7 +1,21 @@
-### Hi there 👋
+<h1 align="center"><samp>Hi there!👋🏾 <br>Welcome to my Github! <br> I'm <b>Rajarshi Vinayak</b>,<br> a passionate web developer, currently undergraduating at <br>IIT Roorkee. </samp></h1>
 
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
+
+
+
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
+ -->
 <!--
-**raj-iitr/raj-iitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ari-hacks/ari-hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
