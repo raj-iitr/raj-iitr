@@ -18,6 +18,7 @@
 <img src="node.png" alt="node" width="70" height="70">
 <img src="git.png" alt="git" width="70" height="70">
 <img src="mongodb.png" alt="mongodb" width="70" height="70">
+<img src="express.js.png" alt="express.js" width="70" height="70">
 </p>
 
 
