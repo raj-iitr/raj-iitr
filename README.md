@@ -15,6 +15,9 @@
 <img src="redux.png" alt="redux" width="70" height="70">
 <img src="vue.png" alt="vue" width="70" height="70">
 <img src="sass.png" alt="sass" width="70" height="70">
+<img src="node.png" alt="node" width="70" height="70">
+<img src="git.png" alt="git" width="70" height="70">
+<img src="mongodb.png" alt="mongodb" width="70" height="70">
 </p>
 
 
