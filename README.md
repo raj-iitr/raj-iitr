@@ -23,10 +23,10 @@
 </p>
 
 
-<p align="center"><samp>
+<h3 align="center"><samp>
 Check out my repos ⬇️  
   </samp>
-</p>
+</h3>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
  -->
