@@ -7,7 +7,7 @@
 <h3 align="center"><i>I am skilled at follwing tech stacks</i></h3>
 
 <p align="center">
-<img src="html.png" alt="html" width="70" height="70">
+<img src="langchain.png" alt="html" width="70" height="70">
 <img src="css.png" alt="css" width="70" height="70">
 <img src="javascript.png" alt="javascript" width="70" height="70">
 <img src="cpp.png" alt="cpp" width="70" height="70">
