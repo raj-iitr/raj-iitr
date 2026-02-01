@@ -4,23 +4,6 @@
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
-<h3 align="center"><i>I am skilled at follwing tech stacks</i></h3>
-
-<p align="center">
-<img src="langchain.png" alt="html" width="70" height="70">
-<img src="css.png" alt="css" width="70" height="70">
-<img src="javascript.png" alt="javascript" width="70" height="70">
-<img src="cpp.png" alt="cpp" width="70" height="70">
-<img src="react.png" alt="react" width="70" height="70">
-<img src="redux.png" alt="redux" width="70" height="70">
- <br>
-<img src="vue.png" alt="vue" width="70" height="70">
-<img src="sass.png" alt="sass" width="70" height="70">
-<img src="node.png" alt="node" width="70" height="70">
-<img src="git.png" alt="git" width="70" height="70">
-<img src="mongodb.png" alt="mongodb" width="70" height="70">
-<img src="express.js.png" alt="express.js" width="70" height="70">
-</p>
 
 
 <h3 align="center"><samp>
